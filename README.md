@@ -1,14 +1,7 @@
-# Hello, I am Omkar.
+## 🧑‍💻 Hello, I am Omkar.
+I’m a black belt problem-solver (literally). I enjoy the taking on new challenges, building skills, and sharing what I’ve learned. 🥋
 
-<img src="https://raw.githubusercontent.com/OmkarKandale/OmkarKandale/master/Omkar.jpg" alt="I’m a black belt problem-solver (literally). I enjoy the taking on new challenges, building skills, and sharing what I’ve learned. 🥋" title="It's me" width="300" height="300"/>
-
-<table>
-  <tr>
-    <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/OmkarKandale/count.svg" alt="Visit Count" title="Visitor count"/></td>
-  </tr>
-</table>
-
+---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omkarkandale) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8367720) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/omkar1334) 
 
@@ -23,10 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=OmkarKandale&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=OmkarKandale&icon=5&color=1)](https://visitcount.itsvg.in)
