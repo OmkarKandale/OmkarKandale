@@ -30,4 +30,4 @@ I’m a black belt problem-solver (literally). I enjoy the taking on new challen
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/OmkarKandale/OmkarKandale/output/snake.svg" alt="Snake animation" />
